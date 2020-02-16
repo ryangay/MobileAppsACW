@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ACW</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="allList">todo</string>
+    <string name="download">Descargar</string>
+    <string name="downloadedList">descargado</string>
+    <string name="downloading_puzzle_list">Buscando a las rompecabezas</string>
+    <string name="enter_name">Introduzca su nombre</string>
+    <string name="filter">Filtrar</string>
+    <string name="high_scores_string">Puntuaciónes</string>
+    <string name="moves">Jugadas:</string>
+    <string name="play">Jugar</string>
+    <string name="pref_colour_hint">(Valor hexadecimal)</string>
+    <string name="pref_colour_key"></string>
+    <string name="pref_colour_title">Color</string>
+    <string name="score_saved">¡Se guardé el puntación!</string>
+    <string name="shareMessage">Acabo de completar %1$s de la aplicación ACW de Ryan Gay usando %2$d jugadas en un tiempo de %3$s</string>
+    <string name="shareScoreQuestion">¿Te gustaría compartir tu resultado?</string>
+    <string name="time_elapsed">Tiempo Transcurrido</string>
+    <string name="pref_name_hint">Tu nombre</string>
+    <string name="pref_name_title">Nombre</string>
+    <string name="puzzle_completed">¡Se completa el puzzle!</string>
+    <string name="puzzle_not_downloaded">¡Se tiene que descargar el puzzle antes se puede jugar!</string>
+    <string name="refresh">Actualizar</string>
+    <string name="title_activity_settings">Ajustes</string>
+    <string name="unknown_error">Error desconocido</string>
+    <string name="loading">Cargando</string>
+</resources>

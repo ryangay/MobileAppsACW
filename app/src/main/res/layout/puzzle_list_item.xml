@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content"
+    android:paddingLeft="@dimen/puzzle_list_item_content_border_margin">
+
+    <TextView
+        android:id="@+id/puzzleName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:layout_margin="@dimen/puzzle_list_item_content_margin"
+        android:text="TextView"
+        android:textSize="@dimen/puzzle_list_item_text_size" />
+
+    <Button
+        android:id="@+id/downloadPuzzle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/ListItemRightColumnStyle"
+        android:text="@string/download"
+        android:focusable="false"
+        android:visibility="visible"/>
+
+    <ProgressBar
+        android:id="@+id/downloadProgress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        style="@style/ProgressBarListStyle"
+        android:indeterminate="false"
+        android:visibility="gone"/>
+</RelativeLayout>

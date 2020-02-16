@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ACW</string>
+    <string name="filter">Filter</string>
+    <string name="title_activity_puzzle_detail" translatable="false">Puzzle</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Error strings -->
+    <string name="puzzle_not_downloaded">Please download the puzzle before trying to play it!</string>
+    <string name="unknown_error">Unknown error!</string>
+    <string name="connection_error">Error connecting to the server. Please check you internet connection and try again!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="play">Play</string>
+    <string name="high_scores_string">High Scores</string>
+    <string name="allList">all</string>
+    <string name="downloadedList">downloaded</string>
+    <string name="download">Download</string>
+    <string name="downloading_puzzle_list">Finding Puzzles...</string>
+    <string name="refresh">Refresh</string>
+
+    <string name="title_activity_arena" translatable="false">ArenaActivity</string>
+    <string name="time_elapsed">Time Elapsed</string>
+    <string name="moves">Moves:</string>
+    <string name="arena_time_format" translatable="false">MM:SS</string>
+    <string name="enter_name">Enter name..</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+    <string name="pref_name_key" translatable="false">name</string>
+    <string name="pref_name_hint">Your name</string>
+    <string name="pref_name_title">Name</string>
+    <string name="pref_colour_key" translatable="false">bg</string>
+    <string name="pref_colour_hint">(Hex value)</string>
+    <string name="pref_colour_title">Colour</string>
+
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+    <string name="score_saved">Score saved!</string>
+    <string name="puzzle_completed">Puzzle Completed!</string>
+    <string name="shareMessage">I just completed %1$s from Ryan Gay\'s ACW application using %2$d moves in a time of %3$s</string>
+    <string name="shareScoreQuestion">Would you like to share your result?</string>
+    <string name="loading">Loading Puzzles</string>
+
+</resources>

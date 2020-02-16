@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:hint="@string/pref_name_hint"
+        android:title="@string/pref_name_title"
+        android:textColorHint="@color/fadedHint"
+        android:key="@string/pref_name_key" />
+    <EditTextPreference
+        android:hint="@string/pref_colour_hint"
+        android:textColorHint="@color/fadedHint"
+        android:title="@string/pref_colour_title"
+        android:key="@string/pref_colour_key" />
+</PreferenceScreen>
